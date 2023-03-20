@@ -1,0 +1,1376 @@
+,log_no,date,time
+0,5956,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1,5957,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+2,5958,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+3,5959,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+4,5960,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+5,5972,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+6,5973,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+7,5974,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+8,5975,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+9,5985,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+10,7488,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+11,7489,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+12,7490,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+13,7491,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+14,7492,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+15,7504,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+16,7505,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+17,7506,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+18,7507,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+19,7517,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+20,18817,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+21,18818,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+22,18819,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+23,18820,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+24,18821,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+25,18833,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+26,18834,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+27,18835,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+28,18836,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+29,18846,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+30,20349,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+31,20350,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+32,20351,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+33,20352,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+34,20353,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+35,20365,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+36,20366,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+37,20367,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+38,20368,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+39,20378,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+40,26170,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+41,26171,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+42,26172,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+43,26173,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+44,26174,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+45,26186,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+46,26187,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+47,26188,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+48,26189,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+49,26199,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+50,32178,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+51,32179,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+52,32180,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+53,32181,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+54,32182,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+55,32194,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+56,32195,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+57,32196,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+58,32197,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+59,32207,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+60,34604,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+61,34605,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+62,34606,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+63,34607,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+64,34608,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+65,34620,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+66,34621,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+67,34622,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+68,34623,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+69,34633,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+70,34728,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+71,34729,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+72,34730,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+73,34731,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+74,34732,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+75,34744,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+76,34745,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+77,34746,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+78,34747,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+79,34757,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+80,40053,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+81,40054,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+82,40055,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+83,40056,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+84,40057,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+85,40069,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+86,40070,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+87,40071,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+88,40072,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+89,40082,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+90,40371,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+91,40372,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+92,40373,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+93,40374,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+94,40375,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+95,40387,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+96,40388,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+97,40389,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+98,40390,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+99,40400,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+100,43330,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+101,43331,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+102,43332,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+103,43333,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+104,43334,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+105,43346,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+106,43347,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+107,43348,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+108,43349,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+109,43359,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+110,43982,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+111,43983,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+112,43984,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+113,43985,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+114,43986,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+115,43998,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+116,43999,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+117,44000,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+118,44001,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+119,44011,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+120,44077,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+121,44078,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+122,44079,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+123,44080,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+124,44081,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+125,44093,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+126,44094,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+127,44131,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+128,44132,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+129,44133,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+130,44134,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+131,44135,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+132,44147,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+133,44148,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+134,44149,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+135,44150,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+136,44160,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+137,44187,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+138,44188,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+139,44189,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+140,44190,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+141,44191,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+142,44203,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+143,44204,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+144,44205,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+145,44206,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+146,44216,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+147,45469,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+148,45470,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+149,45471,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+150,45472,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+151,45473,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+152,45485,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+153,45486,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+154,45487,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+155,45488,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+156,45498,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+157,45648,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+158,45649,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+159,45650,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+160,45651,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+161,45652,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+162,45664,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+163,45665,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+164,45666,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+165,45667,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+166,45677,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+167,45768,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+168,45769,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+169,45770,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+170,45771,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+171,45772,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+172,45784,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+173,45785,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+174,45786,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+175,45787,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+176,46365,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+177,46366,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+178,46367,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+179,46368,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+180,46369,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+181,46381,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+182,46382,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+183,46383,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+184,46384,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+185,46394,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+186,46578,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+187,46579,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+188,46580,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+189,46581,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+190,46582,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+191,46594,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+192,46595,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+193,46596,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+194,46597,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+195,46816,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+196,46817,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+197,46818,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+198,46819,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+199,46820,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+200,46832,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+201,46833,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+202,46834,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+203,46835,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+204,46845,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+205,47900,2009-06-01 10:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+206,47901,2009-06-01 10:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+207,47902,2009-06-01 10:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+208,47903,2009-06-01 10:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+209,52892,2009-06-03 21:44:34,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+210,52893,2009-06-03 21:44:34,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+211,52894,2009-06-03 21:44:34,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+212,52895,2009-06-03 21:44:34,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+213,52896,2009-06-03 21:44:34,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+214,57879,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+215,57880,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+216,57881,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+217,57882,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+218,57883,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+219,57895,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+220,57896,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+221,57897,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+222,57898,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+223,57908,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+224,57956,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+225,57957,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+226,57958,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+227,57959,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+228,57960,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+229,57972,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+230,57973,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+231,57974,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+232,57975,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+233,57985,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+234,58026,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+235,58027,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+236,58028,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+237,58029,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+238,58030,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+239,58042,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+240,58043,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+241,58044,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+242,58045,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+243,58055,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+244,58099,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+245,58100,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+246,58101,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+247,58102,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+248,58103,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+249,58115,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+250,58116,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+251,58117,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+252,58118,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+253,58128,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+254,58174,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+255,58175,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+256,58176,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+257,58177,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+258,58178,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+259,58190,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+260,58191,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+261,58192,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+262,58193,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+263,58203,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+264,58230,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+265,58231,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+266,58232,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+267,58233,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+268,58234,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+269,58246,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+270,58247,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+271,58248,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+272,58249,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+273,58259,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+274,58299,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+275,58300,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+276,58301,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+277,58302,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+278,58303,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+279,58315,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+280,58316,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+281,58317,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+282,58318,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+283,58328,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+284,58376,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+285,58377,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+286,58378,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+287,58379,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+288,58380,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+289,58392,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+290,58393,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+291,58394,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+292,58395,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+293,58405,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+294,58450,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+295,58451,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+296,58452,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+297,58453,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+298,58454,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+299,58466,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+300,58467,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+301,58468,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+302,58469,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+303,58479,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+304,58509,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+305,58510,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+306,58511,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+307,58512,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+308,58513,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+309,58525,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+310,58526,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+311,58527,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+312,58528,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+313,58551,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+314,58552,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+315,58553,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+316,58554,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+317,58555,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+318,58567,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+319,58568,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+320,58569,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+321,58570,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+322,58580,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+323,58594,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+324,58595,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+325,58596,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+326,58597,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+327,58598,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+328,58610,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+329,58611,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+330,58612,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+331,58613,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+332,58636,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+333,58637,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+334,58638,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+335,58639,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+336,58640,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+337,58652,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+338,58653,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+339,58654,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+340,58655,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+341,58665,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+342,58696,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+343,58697,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+344,58698,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+345,58699,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+346,58700,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+347,58712,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+348,58713,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+349,58714,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+350,58715,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+351,58725,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+352,58766,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+353,58767,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+354,58768,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+355,58769,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+356,58770,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+357,58775,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+358,58776,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+359,58777,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+360,58778,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+361,58792,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+362,58793,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+363,58794,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+364,58795,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+365,58796,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+366,58808,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+367,58809,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+368,58810,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+369,58811,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+370,58821,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+371,58862,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+372,58863,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+373,58864,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+374,58865,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+375,58866,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+376,58878,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+377,58879,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+378,58880,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+379,58881,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+380,58891,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+381,58937,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+382,58938,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+383,58939,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+384,58940,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+385,58941,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+386,58953,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+387,58954,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+388,58955,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+389,58956,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+390,58966,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+391,59014,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+392,59015,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+393,59016,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+394,59017,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+395,59018,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+396,59030,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+397,59031,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+398,59032,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+399,59033,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+400,59043,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+401,59089,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+402,59090,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+403,59091,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+404,59092,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+405,59093,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+406,59105,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+407,59106,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+408,59107,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+409,59108,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+410,59118,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+411,59142,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+412,59143,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+413,59144,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+414,59145,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+415,59146,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+416,59158,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+417,59159,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+418,59160,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+419,59161,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+420,59186,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+421,59187,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+422,59188,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+423,59189,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+424,59190,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+425,59202,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+426,59203,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+427,59204,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+428,59205,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+429,59215,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+430,59261,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+431,59262,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+432,59263,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+433,59264,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+434,59265,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+435,59277,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+436,59278,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+437,59279,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+438,59280,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+439,59290,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+440,59338,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+441,59339,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+442,59340,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+443,59341,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+444,59342,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+445,59354,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+446,59355,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+447,59356,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+448,59357,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+449,59367,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+450,59413,2009-06-06 10:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+451,59414,2009-06-06 10:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+452,59415,2009-06-06 10:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+453,59416,2009-06-06 10:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+454,59417,2009-06-06 10:45:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+455,59429,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+456,59430,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+457,59431,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+458,59432,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+459,59433,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+460,59445,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+461,59446,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+462,59447,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+463,59448,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+464,59458,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+465,59506,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+466,59507,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+467,59508,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+468,59509,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+469,59510,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+470,59522,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+471,59523,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+472,59524,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+473,59525,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+474,59535,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+475,59581,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+476,59582,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+477,59583,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+478,59584,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+479,59585,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+480,59597,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+481,59598,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+482,59599,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+483,59600,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+484,59610,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+485,59651,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+486,59652,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+487,59653,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+488,59654,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+489,59655,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+490,59667,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+491,59668,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+492,59669,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+493,59670,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+494,59680,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+495,59801,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+496,59802,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+497,59803,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+498,59804,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+499,59805,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+500,59817,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+501,59818,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+502,59819,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+503,59820,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+504,59830,2009-06-06 11:36:19,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+505,59876,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+506,59877,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+507,59878,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+508,59879,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+509,59880,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+510,59892,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+511,59893,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+512,59894,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+513,59895,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+514,59905,2009-06-06 11:36:19,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+515,60019,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+516,60020,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+517,60021,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+518,60022,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+519,60023,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+520,60035,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+521,60036,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+522,60037,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+523,60038,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+524,60048,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+525,60090,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+526,60091,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+527,60092,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+528,60093,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+529,60094,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+530,60106,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+531,60107,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+532,60108,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+533,60109,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+534,60119,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+535,60144,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+536,60145,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+537,60146,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+538,60147,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+539,60148,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+540,60160,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+541,60161,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+542,60162,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+543,60163,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+544,60187,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+545,60188,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+546,60189,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+547,60190,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+548,60191,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+549,60203,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+550,60204,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+551,60205,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+552,60206,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+553,60232,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+554,60233,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+555,60234,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+556,60235,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+557,60236,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+558,60248,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+559,60249,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+560,60250,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+561,60251,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+562,60261,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+563,60300,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+564,60301,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+565,60302,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+566,60303,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+567,60304,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+568,60316,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+569,60317,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+570,60318,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+571,60319,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+572,60333,2009-06-06 12:37:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+573,60334,2009-06-06 12:37:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+574,60335,2009-06-06 12:37:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+575,60336,2009-06-06 12:37:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+576,60337,2009-06-06 12:37:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+577,60369,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+578,60370,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+579,60371,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+580,60372,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+581,60373,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+582,60385,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+583,60386,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+584,60387,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+585,60388,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+586,60398,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+587,60443,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+588,60444,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+589,60445,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+590,60446,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+591,60447,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+592,60459,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+593,60460,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+594,60461,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+595,60462,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+596,60472,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+597,60515,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+598,60516,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+599,60517,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+600,60518,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+601,60519,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+602,60531,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+603,60532,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+604,60533,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+605,60534,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+606,60557,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+607,60558,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+608,60559,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+609,60560,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+610,60561,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+611,60573,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+612,60574,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+613,60575,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+614,60576,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+615,60586,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+616,60610,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+617,60611,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+618,60612,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+619,60613,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+620,60614,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+621,60626,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+622,60627,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+623,60628,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+624,60629,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+625,60639,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+626,60687,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+627,60688,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+628,60689,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+629,60690,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+630,60691,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+631,60703,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+632,60704,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+633,60709,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+634,60710,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+635,60711,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+636,60712,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+637,60713,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+638,60725,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+639,60726,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+640,60727,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+641,60728,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+642,60738,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+643,60752,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+644,60753,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+645,60754,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+646,60755,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+647,60756,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+648,60768,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+649,60769,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+650,60770,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+651,60771,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+652,60781,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+653,60818,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+654,60819,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+655,60820,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+656,60821,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+657,60822,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+658,60834,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+659,60835,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+660,60836,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+661,60837,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+662,60847,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+663,62471,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+664,62472,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+665,62473,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+666,62474,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+667,62475,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+668,62487,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+669,62488,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+670,62489,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+671,62490,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+672,62500,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+673,63180,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+674,63181,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+675,63182,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+676,63183,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+677,63184,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+678,63196,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+679,63197,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+680,63198,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+681,63199,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+682,63209,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+683,65429,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+684,65430,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+685,65431,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+686,65432,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+687,65433,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+688,65445,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+689,65446,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+690,65447,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+691,65448,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+692,65458,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+693,67401,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+694,67402,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+695,67403,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+696,67404,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+697,67405,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+698,67417,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+699,67418,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+700,67419,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+701,67420,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+702,67430,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+703,67850,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+704,67851,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+705,67852,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+706,67853,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+707,67854,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+708,67866,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+709,67867,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+710,67868,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+711,67869,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+712,67879,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+713,68858,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+714,68859,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+715,68860,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+716,68861,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+717,68862,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+718,68874,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+719,68875,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+720,68876,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+721,68877,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+722,68887,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+723,69544,2009-06-10 15:48:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+724,69545,2009-06-10 15:48:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+725,69546,2009-06-10 15:48:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+726,69547,2009-06-10 15:48:20,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+727,69548,2009-06-10 15:48:20,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+728,69560,2009-06-10 15:48:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+729,69561,2009-06-10 15:48:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+730,69562,2009-06-10 15:48:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+731,69563,2009-06-10 15:48:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+732,69573,2009-06-10 15:48:21,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+733,69903,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+734,69904,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+735,69905,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+736,69906,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+737,69907,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+738,69919,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+739,69920,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+740,69921,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+741,69922,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+742,69932,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+743,70281,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+744,70282,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+745,70283,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+746,70284,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+747,70285,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+748,70297,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+749,70298,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+750,70299,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+751,70300,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+752,70310,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+753,72491,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+754,72492,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+755,72493,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+756,72494,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+757,72495,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+758,72507,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+759,72508,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+760,72509,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+761,72510,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+762,72520,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+763,73746,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+764,73747,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+765,73748,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+766,73749,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+767,73750,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+768,73762,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+769,73763,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+770,73764,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+771,73765,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+772,78043,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+773,78044,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+774,78045,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+775,78046,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+776,78047,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+777,78059,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+778,78060,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+779,78061,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+780,78062,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+781,78072,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+782,78490,2009-06-16 17:17:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+783,78491,2009-06-16 17:17:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+784,78492,2009-06-16 17:17:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+785,78493,2009-06-16 17:17:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+786,78494,2009-06-16 17:17:05,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+787,78506,2009-06-16 17:17:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+788,78507,2009-06-16 17:17:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+789,78508,2009-06-16 17:17:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+790,78509,2009-06-16 17:17:06,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+791,78519,2009-06-16 17:17:06,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+792,79704,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+793,79705,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+794,79706,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+795,79707,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+796,79708,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+797,79720,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+798,79721,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+799,79722,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+800,79723,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+801,79733,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+802,81518,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+803,81519,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+804,81520,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+805,81521,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+806,81522,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+807,81534,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+808,81535,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+809,81536,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+810,81537,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+811,81547,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+812,81610,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+813,81611,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+814,81612,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+815,81613,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+816,81614,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+817,81626,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+818,81627,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+819,81628,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+820,81629,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+821,81639,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+822,81902,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+823,81903,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+824,81904,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+825,81905,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+826,81906,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+827,81918,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+828,81919,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+829,81920,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+830,81921,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+831,88611,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+832,88612,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+833,88613,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+834,88614,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+835,88615,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+836,88627,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+837,88628,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+838,88629,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+839,88630,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+840,88640,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+841,95341,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+842,95342,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+843,95343,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+844,95344,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+845,95345,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+846,95357,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+847,95358,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+848,95359,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+849,95360,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+850,95370,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+851,100752,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+852,100753,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+853,100754,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+854,100755,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+855,100756,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+856,100768,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+857,100769,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+858,100770,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+859,100771,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+860,100781,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+861,103002,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+862,103003,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+863,103004,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+864,103005,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+865,103006,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+866,103018,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+867,103019,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+868,103020,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+869,103021,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+870,103031,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+871,103071,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+872,103072,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+873,103073,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+874,103074,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+875,103075,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+876,103087,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+877,103088,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+878,103089,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+879,103090,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+880,103100,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+881,104701,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+882,104702,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+883,104703,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+884,104704,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+885,104705,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+886,104710,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+887,104711,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+888,104712,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+889,104713,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+890,105983,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+891,105984,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+892,105985,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+893,105986,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+894,105987,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+895,105999,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+896,106000,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+897,106001,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+898,106002,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+899,106012,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+900,106060,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+901,106061,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+902,106062,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+903,106063,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+904,106064,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+905,106076,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+906,106077,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+907,106078,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+908,106079,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+909,106089,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+910,106786,2009-06-30 07:40:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+911,106787,2009-06-30 07:40:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+912,106788,2009-06-30 07:40:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+913,106789,2009-06-30 07:40:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+914,106790,2009-06-30 07:40:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+915,106983,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+916,106984,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+917,106985,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+918,106986,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+919,106987,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+920,106999,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+921,107000,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+922,107001,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+923,107002,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+924,107012,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+925,118485,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+926,118714,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+927,118959,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+928,118960,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+929,118961,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+930,118962,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+931,118963,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+932,118973,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+933,118974,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+934,118975,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+935,118976,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+936,118982,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+937,118983,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+938,118984,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+939,118985,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+940,118987,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+941,118989,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+942,118991,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+943,118992,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+944,118993,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+945,118994,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+946,118996,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+947,118998,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+948,119006,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+949,119007,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+950,119008,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+951,119009,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+952,119010,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+953,119022,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+954,119023,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+955,119024,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+956,119025,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+957,119036,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+958,119037,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+959,119038,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+960,119039,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+961,119041,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+962,119043,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+963,119045,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+964,119046,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+965,119047,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+966,119048,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+967,119050,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+968,119052,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+969,119496,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+970,119497,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+971,119498,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+972,119499,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+973,119500,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+974,119512,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+975,119513,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+976,119523,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+977,119529,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+978,119530,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+979,119531,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+980,119532,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+981,119534,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+982,119536,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+983,119538,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+984,119539,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+985,119540,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+986,119541,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+987,119543,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+988,119545,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+989,119547,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+990,119548,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+991,119549,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+992,119550,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+993,119552,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+994,119554,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+995,119556,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+996,119557,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+997,119558,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+998,119559,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+999,119561,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+1000,119563,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+1001,126353,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1002,126354,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1003,126355,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1004,126356,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1005,126357,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1006,126369,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1007,126370,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1008,126371,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1009,126372,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1010,126387,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1011,126388,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1012,126389,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1013,126390,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1014,126391,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1015,126403,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1016,126404,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1017,126405,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1018,126406,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1019,126416,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1020,127392,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1021,127393,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1022,127394,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1023,127395,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1024,127396,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1025,127408,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1026,127409,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1027,127410,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1028,127411,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1029,127421,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1030,127988,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1031,127989,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1032,127990,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1033,127991,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1034,127992,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1035,128004,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1036,128005,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1037,128006,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1038,128007,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1039,128017,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1040,128132,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1041,128133,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1042,128134,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1043,128135,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1044,128136,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1045,128148,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1046,128149,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1047,128150,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1048,128151,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1049,128161,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1050,128214,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1051,128215,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1052,128216,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1053,128217,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1054,128218,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1055,128230,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1056,128231,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1057,128232,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1058,128233,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1059,128243,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1060,128270,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1061,128271,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1062,128272,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1063,128273,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1064,128274,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1065,128286,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1066,128287,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1067,128288,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1068,128289,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1069,128299,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1070,131072,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1071,131073,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1072,131074,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1073,131075,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1074,131076,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1075,131088,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1076,131089,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1077,131090,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1078,131091,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1079,132337,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1080,132338,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1081,132339,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1082,132340,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1083,132341,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1084,132353,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1085,132354,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1086,132355,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1087,132356,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1088,132398,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1089,132399,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1090,132400,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1091,132401,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1092,132402,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1093,132414,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1094,132415,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1095,132416,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1096,132417,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1097,132427,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1098,132843,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1099,132844,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1100,132845,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1101,132846,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1102,132847,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1103,132859,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1104,132860,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1105,132861,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1106,132862,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1107,133359,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1108,133360,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1109,133361,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1110,133362,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1111,133363,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1112,133375,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1113,133376,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1114,133377,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1115,133378,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1116,134505,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1117,134506,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1118,134507,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1119,134508,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1120,134509,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1121,134521,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1122,134522,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1123,134523,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1124,134524,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1125,134534,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1126,134889,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1127,134890,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1128,134891,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1129,134892,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1130,134893,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1131,134905,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1132,134906,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1133,134907,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1134,134908,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1135,134918,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1136,139314,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1137,139315,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1138,139316,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1139,139317,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1140,139318,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1141,139330,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1142,139331,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1143,139332,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1144,139333,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1145,139343,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1146,139367,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1147,139368,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1148,139369,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1149,139370,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1150,139371,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1151,139383,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1152,139384,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1153,139385,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1154,139386,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1155,139396,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1156,139496,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1157,139497,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1158,139498,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1159,139499,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1160,139500,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1161,139512,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1162,139513,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1163,139637,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1164,139638,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1165,139639,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1166,139640,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1167,139641,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1168,139653,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1169,139654,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1170,139655,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1171,139656,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1172,139666,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1173,139712,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1174,139713,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1175,139714,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1176,139715,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1177,139716,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1178,139728,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1179,139729,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1180,139730,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1181,139731,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1182,139741,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1183,140976,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1184,140977,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1185,140978,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1186,140979,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1187,140980,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1188,140992,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1189,140993,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1190,140994,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1191,140995,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1192,141005,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1193,141244,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1194,141245,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1195,141246,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1196,141247,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1197,141248,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1198,141260,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1199,141261,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1200,141262,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1201,141263,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1202,141273,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1203,141320,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1204,141321,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1205,141322,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1206,141323,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1207,141324,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1208,141336,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1209,141337,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1210,141338,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1211,141339,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1212,141349,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1213,141413,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1214,141414,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1215,141415,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1216,141416,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1217,141417,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1218,141429,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1219,141430,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1220,141431,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1221,141432,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1222,141460,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1223,141461,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1224,141462,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1225,141463,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1226,141464,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1227,141476,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1228,141477,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1229,141478,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1230,141479,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1231,141489,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1232,144589,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1233,144590,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1234,144591,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1235,144592,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1236,144593,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1237,144605,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1238,144606,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1239,144607,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1240,144608,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1241,144618,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1242,144745,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1243,144746,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1244,144747,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1245,144748,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1246,144749,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1247,144761,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1248,144762,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1249,144763,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1250,144764,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1251,144774,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1252,145060,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1253,145061,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1254,145062,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1255,145063,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1256,145064,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1257,145076,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1258,145077,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1259,145078,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1260,145079,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1261,145089,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1262,145157,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1263,145158,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1264,145159,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1265,145160,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1266,145161,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1267,145173,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1268,145174,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1269,145175,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1270,145176,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1271,145186,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1272,145252,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1273,145253,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1274,145254,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1275,145255,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1276,145256,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1277,145268,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1278,145269,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1279,145270,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1280,145271,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1281,146599,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1282,146600,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1283,146601,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1284,146602,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1285,146603,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1286,146615,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1287,146616,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1288,146617,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1289,146618,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1290,146628,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1291,146863,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1292,146864,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1293,146865,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1294,146866,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1295,146867,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1296,146879,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1297,146880,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1298,146881,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1299,146882,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1300,147486,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1301,147487,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1302,147488,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1303,147489,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1304,147490,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1305,147502,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1306,147503,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1307,147504,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1308,147505,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1309,147595,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1310,147596,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1311,147597,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1312,147598,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1313,147599,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1314,147611,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1315,147612,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1316,147613,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1317,147614,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1318,148971,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1319,148972,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1320,148973,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1321,148974,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1322,148975,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1323,148987,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1324,148988,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1325,148989,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1326,148990,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1327,149408,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1328,149409,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1329,149410,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1330,149411,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1331,149412,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1332,149424,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1333,149425,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1334,149426,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1335,149427,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1336,149437,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1337,149569,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1338,149570,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1339,149571,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1340,149572,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1341,149573,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1342,149585,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1343,149586,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1344,149587,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1345,149588,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1346,149598,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+1347,151846,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1348,151847,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1349,151848,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1350,151849,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1351,151850,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1352,151862,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1353,151863,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1354,151864,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1355,151865,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1356,153049,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1357,153050,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1358,153051,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1359,153052,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1360,153053,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1361,153065,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1362,153066,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1363,153067,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1364,153068,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1365,153525,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1366,153526,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1367,153527,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1368,153528,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1369,153529,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1370,153541,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1371,153542,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+1372,153543,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1373,153544,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+1374,153554,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd

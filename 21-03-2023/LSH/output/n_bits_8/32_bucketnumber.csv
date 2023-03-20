@@ -1,0 +1,4 @@
+no,log_no,date,time
+0,123610,2009-07-08 07:47:52,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+1,123612,2009-07-08 07:47:54,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+2,123614,2009-07-08 07:47:58,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)

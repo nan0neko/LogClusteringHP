@@ -1,0 +1,3 @@
+,log_no,date,time
+0,42645,2009-05-30 05:12:07,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Hard Reset) [code  (Cease) subcode  (Peer Unconfigured)]
+1,116590,2009-07-05 03:18:00,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Hard Reset) [code  (Cease) subcode  (Peer Unconfigured)]
