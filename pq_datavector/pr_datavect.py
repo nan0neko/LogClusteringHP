@@ -25,14 +25,7 @@ for i,val in enumerate(arr):
         dic[val] =[i]
     else:
         dic[val].append(i)
-count=0
-for i in dic:
-    
-    for c,j in enumerate(dic[i]):
-        
-        count=count+cosine_similarity([data_2[j]],[data_2[dic[i][0]]])
-        
-print(count/154071)
+
         
 # for i in dic.keys():
 #     name='C:\\Users\\dhruv\\OneDrive\\Desktop\\ython\\outt\\'+str(i)+'_clusternumber.csv'
@@ -46,11 +39,3 @@ print(count/154071)
 #     dict={'log_no':numb,'date':arra,'time':deta}
 #     data_f=pd.DataFrame(dict)
 #     data_f.to_csv(name)        
-# vecs=faiss.IndexFlatL2(dim)
-# nlis=2048
-# nbi=8
-# inde=faiss.IndexIVFPQ(vecs,dim,nlis,m,nbi)
-# inde.train(data_2)
-# inde.add(data_2)
-# arra=faiss.vector_to_array(inde.max_codes)
-# print(arra)
