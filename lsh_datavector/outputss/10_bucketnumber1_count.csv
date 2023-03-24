@@ -1,0 +1,28 @@
+,log_no,date,time
+0,118598,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+1,118605,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+2,118612,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+3,118619,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+4,118626,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+5,118633,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+6,118640,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+7,118647,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+8,118654,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+9,118661,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+10,118668,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+11,118675,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+12,118831,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+13,118838,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+14,118845,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+15,118852,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+16,118857,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+17,118864,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+18,118871,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+19,118878,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+20,118885,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+21,118892,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+22,118899,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+23,118906,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+24,123620,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+25,123700,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+26,123708,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init

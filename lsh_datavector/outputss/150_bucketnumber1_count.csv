@@ -1,0 +1,53 @@
+,log_no,date,time
+0,118592,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+1,118593,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+2,118599,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+3,118600,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+4,118606,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+5,118607,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+6,118613,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+7,118614,2009-07-06 01:42:33,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+8,118620,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+9,118621,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+10,118627,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+11,118628,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+12,118634,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+13,118635,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+14,118641,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+15,118642,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+16,118648,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+17,118649,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+18,118655,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+19,118656,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+20,118662,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+21,118663,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+22,118669,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+23,118670,2009-07-06 01:42:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+24,118825,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+25,118826,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+26,118832,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+27,118833,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+28,118839,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+29,118840,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+30,118846,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+31,118847,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+32,118853,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+33,118854,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+34,118858,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+35,118859,2009-07-06 01:44:34,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+36,118865,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+37,118866,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+38,118872,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+39,118873,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+40,118879,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+41,118880,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+42,118886,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+43,118887,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+44,118893,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+45,118894,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+46,118900,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+47,118901,2009-07-06 01:44:35,chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+48,123758,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+49,123759,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+50,123760,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+51,123761,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""

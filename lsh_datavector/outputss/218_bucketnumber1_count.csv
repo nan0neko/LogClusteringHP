@@ -1,0 +1,481 @@
+,log_no,date,time
+0,5960,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+1,6026,2009-05-17 00:01:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+2,6027,2009-05-17 00:01:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+3,6028,2009-05-17 00:01:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+4,7492,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+5,7558,2009-05-17 18:09:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+6,7559,2009-05-17 18:09:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+7,7560,2009-05-17 18:09:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+8,18821,2009-05-17 00:01:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+9,18887,2009-05-17 00:01:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+10,18888,2009-05-17 00:01:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+11,18889,2009-05-17 00:01:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+12,20353,2009-05-17 18:09:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+13,20419,2009-05-17 18:09:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+14,20420,2009-05-17 18:09:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+15,20421,2009-05-17 18:09:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+16,26174,2009-05-20 15:42:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+17,26240,2009-05-20 15:42:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+18,26241,2009-05-20 15:42:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+19,26242,2009-05-20 15:42:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+20,32182,2009-05-23 15:12:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+21,32248,2009-05-23 15:12:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+22,32249,2009-05-23 15:12:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+23,32250,2009-05-23 15:12:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+24,34608,2009-05-24 20:17:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+25,34674,2009-05-24 20:17:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+26,34675,2009-05-24 20:17:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+27,34676,2009-05-24 20:17:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+28,34732,2009-05-24 20:58:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+29,34798,2009-05-24 20:58:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+30,34799,2009-05-24 20:58:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+31,34800,2009-05-24 20:58:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+32,40057,2009-05-27 12:57:10,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+33,40123,2009-05-27 12:57:10,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+34,40124,2009-05-27 12:57:10,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+35,40125,2009-05-27 12:57:10,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+36,40375,2009-05-27 15:27:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+37,40441,2009-05-27 15:27:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+38,40442,2009-05-27 15:27:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+39,40443,2009-05-27 15:27:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+40,43334,2009-05-30 12:55:06,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+41,43400,2009-05-30 12:55:06,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+42,43401,2009-05-30 12:55:06,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+43,43402,2009-05-30 12:55:06,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+44,43986,2009-05-30 19:27:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+45,44052,2009-05-30 19:27:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+46,44053,2009-05-30 19:27:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+47,44054,2009-05-30 19:27:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+48,44081,2009-05-30 19:42:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+49,44122,2009-05-30 19:42:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+50,44123,2009-05-30 19:42:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+51,44135,2009-05-30 19:46:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+52,44178,2009-05-30 19:46:41,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+53,44179,2009-05-30 19:46:41,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+54,44180,2009-05-30 19:46:41,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+55,44191,2009-05-30 19:50:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+56,44253,2009-05-30 19:50:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+57,44254,2009-05-30 19:50:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+58,44255,2009-05-30 19:50:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+59,45473,2009-05-31 10:02:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+60,45535,2009-05-31 10:02:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+61,45652,2009-05-31 11:21:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+62,45718,2009-05-31 11:21:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+63,45719,2009-05-31 11:21:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+64,45720,2009-05-31 11:21:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+65,45772,2009-05-31 12:02:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+66,45803,2009-05-31 12:02:54,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+67,45804,2009-05-31 12:02:54,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+68,45805,2009-05-31 12:02:55,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+69,46369,2009-05-31 17:57:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+70,46434,2009-05-31 17:57:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+71,46435,2009-05-31 17:57:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+72,46436,2009-05-31 17:57:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+73,46582,2009-05-31 19:27:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+74,46610,2009-05-31 19:27:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+75,46611,2009-05-31 19:27:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+76,46612,2009-05-31 19:27:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+77,46820,2009-05-31 21:36:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+78,46886,2009-05-31 21:36:52,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+79,46887,2009-05-31 21:36:52,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+80,46888,2009-05-31 21:36:52,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+81,47914,2009-06-01 10:08:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+82,52896,2009-06-03 21:44:34,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+83,52904,2009-06-03 21:44:34,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+84,52905,2009-06-03 21:44:34,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+85,57883,2009-06-06 10:23:18,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+86,57949,2009-06-06 10:23:18,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+87,57950,2009-06-06 10:23:18,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+88,57951,2009-06-06 10:23:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+89,57960,2009-06-06 10:24:09,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+90,58022,2009-06-06 10:24:09,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+91,58023,2009-06-06 10:24:09,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+92,58030,2009-06-06 10:25:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+93,58096,2009-06-06 10:25:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+94,58103,2009-06-06 10:25:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+95,58165,2009-06-06 10:25:54,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+96,58166,2009-06-06 10:25:54,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+97,58167,2009-06-06 10:25:54,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+98,58178,2009-06-06 10:26:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+99,58226,2009-06-06 10:26:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+100,58227,2009-06-06 10:26:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+101,58234,2009-06-06 10:27:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+102,58294,2009-06-06 10:27:40,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+103,58295,2009-06-06 10:27:40,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+104,58303,2009-06-06 10:28:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+105,58369,2009-06-06 10:28:31,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+106,58370,2009-06-06 10:28:31,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+107,58371,2009-06-06 10:28:31,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+108,58380,2009-06-06 10:29:22,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+109,58442,2009-06-06 10:29:22,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+110,58443,2009-06-06 10:29:22,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+111,58454,2009-06-06 10:31:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+112,58500,2009-06-06 10:31:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+113,58501,2009-06-06 10:31:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+114,58513,2009-06-06 10:32:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+115,58544,2009-06-06 10:32:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+116,58545,2009-06-06 10:32:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+117,58555,2009-06-06 10:32:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+118,58589,2009-06-06 10:32:50,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+119,58590,2009-06-06 10:32:50,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+120,58591,2009-06-06 10:32:50,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+121,58598,2009-06-06 10:33:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+122,58630,2009-06-06 10:33:41,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+123,58631,2009-06-06 10:33:41,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+124,58640,2009-06-06 10:34:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+125,58689,2009-06-06 10:34:31,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+126,58690,2009-06-06 10:34:31,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+127,58700,2009-06-06 10:35:20,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+128,58762,2009-06-06 10:35:20,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+129,58763,2009-06-06 10:35:20,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+130,58770,2009-06-06 10:36:10,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+131,58786,2009-06-06 10:36:10,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+132,58787,2009-06-06 10:36:10,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+133,58796,2009-06-06 10:36:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+134,58858,2009-06-06 10:36:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+135,58859,2009-06-06 10:36:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+136,58866,2009-06-06 10:37:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+137,58932,2009-06-06 10:37:47,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+138,58933,2009-06-06 10:37:47,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+139,58934,2009-06-06 10:37:47,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+140,58941,2009-06-06 10:38:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+141,59007,2009-06-06 10:38:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+142,59008,2009-06-06 10:38:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+143,59009,2009-06-06 10:38:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+144,59018,2009-06-06 10:39:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+145,59084,2009-06-06 10:39:24,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+146,59085,2009-06-06 10:39:24,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+147,59086,2009-06-06 10:39:24,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+148,59093,2009-06-06 10:40:12,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+149,59133,2009-06-06 10:40:12,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+150,59134,2009-06-06 10:40:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+151,59135,2009-06-06 10:40:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+152,59146,2009-06-06 10:41:27,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+153,59182,2009-06-06 10:41:27,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+154,59183,2009-06-06 10:41:27,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+155,59190,2009-06-06 10:42:23,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+156,59256,2009-06-06 10:42:23,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+157,59257,2009-06-06 10:42:23,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+158,59258,2009-06-06 10:42:23,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+159,59265,2009-06-06 10:43:15,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+160,59331,2009-06-06 10:43:15,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+161,59332,2009-06-06 10:43:15,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+162,59333,2009-06-06 10:43:15,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+163,59342,2009-06-06 10:44:07,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+164,59408,2009-06-06 10:44:07,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+165,59409,2009-06-06 10:44:07,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+166,59410,2009-06-06 10:44:07,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+167,59417,2009-06-06 10:45:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+168,59433,2009-06-06 10:45:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+169,59499,2009-06-06 10:45:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+170,59500,2009-06-06 10:45:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+171,59501,2009-06-06 10:45:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+172,59510,2009-06-06 10:46:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+173,59576,2009-06-06 10:46:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+174,59577,2009-06-06 10:46:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+175,59578,2009-06-06 10:46:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+176,59585,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+177,59647,2009-06-06 10:47:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+178,59648,2009-06-06 10:47:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+179,59655,2009-06-06 10:47:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+180,59717,2009-06-06 10:47:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+181,59718,2009-06-06 10:47:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+182,59805,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+183,59871,2009-06-06 11:36:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+184,59872,2009-06-06 11:36:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+185,59873,2009-06-06 11:36:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+186,59880,2009-06-06 11:36:18,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+187,59946,2009-06-06 11:36:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+188,59947,2009-06-06 11:36:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+189,59948,2009-06-06 11:36:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+190,60023,2009-06-06 12:31:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+191,60084,2009-06-06 12:31:35,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+192,60085,2009-06-06 12:31:35,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+193,60094,2009-06-06 12:32:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+194,60140,2009-06-06 12:32:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+195,60141,2009-06-06 12:32:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+196,60148,2009-06-06 12:33:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+197,60180,2009-06-06 12:33:24,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+198,60181,2009-06-06 12:33:24,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+199,60191,2009-06-06 12:34:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+200,60222,2009-06-06 12:34:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+201,60223,2009-06-06 12:34:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+202,60236,2009-06-06 12:35:21,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+203,60296,2009-06-06 12:35:21,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+204,60297,2009-06-06 12:35:21,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+205,60304,2009-06-06 12:36:17,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+206,60329,2009-06-06 12:36:17,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+207,60330,2009-06-06 12:36:17,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+208,60337,2009-06-06 12:37:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+209,60362,2009-06-06 12:37:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+210,60363,2009-06-06 12:37:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+211,60364,2009-06-06 12:37:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+212,60373,2009-06-06 12:38:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+213,60439,2009-06-06 12:38:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+214,60440,2009-06-06 12:38:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+215,60441,2009-06-06 12:38:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+216,60447,2009-06-06 12:38:58,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+217,60509,2009-06-06 12:38:58,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+218,60510,2009-06-06 12:38:58,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+219,60519,2009-06-06 12:39:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+220,60551,2009-06-06 12:39:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+221,60552,2009-06-06 12:39:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+222,60561,2009-06-06 12:40:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+223,60606,2009-06-06 12:40:50,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+224,60607,2009-06-06 12:40:50,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+225,60614,2009-06-06 12:41:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+226,60680,2009-06-06 12:41:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+227,60681,2009-06-06 12:41:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+228,60682,2009-06-06 12:41:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+229,60691,2009-06-06 12:42:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+230,60705,2009-06-06 12:42:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+231,60706,2009-06-06 12:42:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+232,60713,2009-06-06 12:43:49,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+233,60747,2009-06-06 12:43:49,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+234,60748,2009-06-06 12:43:49,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+235,60749,2009-06-06 12:43:49,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+236,60756,2009-06-06 12:44:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+237,60810,2009-06-06 12:44:40,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+238,60811,2009-06-06 12:44:40,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+239,60822,2009-06-06 12:45:32,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+240,60888,2009-06-06 12:45:32,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+241,60889,2009-06-06 12:45:32,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+242,60890,2009-06-06 12:45:32,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+243,62475,2009-06-07 08:07:11,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+244,62541,2009-06-07 08:07:11,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+245,62542,2009-06-07 08:07:11,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+246,62543,2009-06-07 08:07:11,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+247,63184,2009-06-07 15:33:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+248,63250,2009-06-07 15:33:35,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+249,63251,2009-06-07 15:33:35,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+250,63252,2009-06-07 15:33:35,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+251,65433,2009-06-08 17:41:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+252,65494,2009-06-08 17:41:52,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+253,65495,2009-06-08 17:41:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+254,67405,2009-06-09 16:40:25,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+255,67471,2009-06-09 16:40:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+256,67472,2009-06-09 16:40:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+257,67473,2009-06-09 16:40:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+258,67854,2009-06-09 21:39:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+259,67920,2009-06-09 21:39:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+260,67921,2009-06-09 21:39:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+261,67922,2009-06-09 21:39:46,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+262,68862,2009-06-10 09:49:40,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+263,68928,2009-06-10 09:49:40,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+264,68929,2009-06-10 09:49:40,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+265,68930,2009-06-10 09:49:40,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+266,69548,2009-06-10 15:48:20,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+267,69907,2009-06-10 18:16:28,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+268,69973,2009-06-10 18:16:28,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+269,69974,2009-06-10 18:16:28,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+270,69975,2009-06-10 18:16:28,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+271,70285,2009-06-10 21:40:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+272,70330,2009-06-10 21:40:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+273,72495,2009-06-13 17:24:24,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+274,72547,2009-06-13 17:24:24,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+275,72548,2009-06-13 17:24:24,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+276,73750,2009-06-14 09:12:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+277,73776,2009-06-14 09:12:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+278,73777,2009-06-14 09:12:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+279,73778,2009-06-14 09:12:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+280,78047,2009-06-16 13:08:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+281,78113,2009-06-16 13:08:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+282,78114,2009-06-16 13:08:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+283,78115,2009-06-16 13:08:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+284,78494,2009-06-16 17:17:05,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+285,78560,2009-06-16 17:17:06,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+286,78561,2009-06-16 17:17:06,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+287,78562,2009-06-16 17:17:06,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+288,79708,2009-06-17 08:03:12,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+289,79762,2009-06-17 08:03:12,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+290,79763,2009-06-17 08:03:12,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+291,81522,2009-06-18 05:42:41,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+292,81588,2009-06-18 05:42:41,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+293,81589,2009-06-18 05:42:41,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+294,81614,2009-06-18 05:57:29,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+295,81680,2009-06-18 05:57:29,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+296,81681,2009-06-18 05:57:29,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+297,81682,2009-06-18 05:57:29,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+298,81906,2009-06-18 08:45:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+299,81946,2009-06-18 08:45:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+300,81947,2009-06-18 08:45:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+301,81948,2009-06-18 08:45:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+302,88615,2009-06-21 12:07:26,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+303,88681,2009-06-21 12:07:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+304,88682,2009-06-21 12:07:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+305,88683,2009-06-21 12:07:26,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+306,95345,2009-06-24 19:53:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+307,95411,2009-06-24 19:53:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+308,95412,2009-06-24 19:53:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+309,95413,2009-06-24 19:53:14,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+310,100756,2009-06-27 12:55:47,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+311,100808,2009-06-27 12:55:47,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+312,100809,2009-06-27 12:55:47,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+313,103006,2009-06-28 15:16:56,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+314,103067,2009-06-28 15:16:56,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+315,103068,2009-06-28 15:16:56,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+316,103075,2009-06-28 15:17:11,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+317,103141,2009-06-28 15:17:11,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+318,103142,2009-06-28 15:17:11,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+319,103143,2009-06-28 15:17:11,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+320,104705,2009-06-29 09:21:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+321,104723,2009-06-29 09:21:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+322,104724,2009-06-29 09:21:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+323,105987,2009-06-29 23:14:57,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+324,106052,2009-06-29 23:14:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+325,106053,2009-06-29 23:14:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+326,106054,2009-06-29 23:14:57,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+327,106064,2009-06-29 23:15:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+328,106130,2009-06-29 23:15:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+329,106131,2009-06-29 23:15:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+330,106132,2009-06-29 23:15:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+331,106790,2009-06-30 07:40:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+332,106987,2009-06-30 10:04:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+333,107053,2009-06-30 10:04:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+334,107054,2009-06-30 10:04:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+335,107055,2009-06-30 10:04:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+336,118963,2009-07-06 01:56:37,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+337,118979,2009-07-06 01:56:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+338,118980,2009-07-06 01:56:37,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+339,119010,2009-07-06 02:00:50,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+340,119033,2009-07-06 02:00:50,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+341,119034,2009-07-06 02:00:50,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+342,119500,2009-07-06 07:26:21,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+343,119526,2009-07-06 07:26:21,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+344,119527,2009-07-06 07:26:21,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+345,126357,2009-07-11 10:35:38,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+346,126383,2009-07-11 10:35:38,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+347,126384,2009-07-11 10:35:38,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+348,126385,2009-07-11 10:35:38,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+349,126391,2009-07-11 10:37:52,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+350,126452,2009-07-11 10:37:52,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+351,126453,2009-07-11 10:37:52,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+352,127396,2009-07-12 12:19:01,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+353,127451,2009-07-12 12:19:01,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+354,127992,2009-07-13 02:32:13,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+355,128054,2009-07-13 02:32:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+356,128055,2009-07-13 02:32:13,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+357,128136,2009-07-13 03:41:09,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+358,128201,2009-07-13 03:41:09,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+359,128202,2009-07-13 03:41:09,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+360,128203,2009-07-13 03:41:09,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+361,128218,2009-07-13 04:02:58,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+362,128259,2009-07-13 04:02:58,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+363,128260,2009-07-13 04:02:58,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+364,128274,2009-07-13 04:09:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+365,128340,2009-07-13 04:09:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+366,128341,2009-07-13 04:09:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+367,128342,2009-07-13 04:09:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+368,131076,2009-07-16 15:42:04,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+369,131103,2009-07-16 15:42:04,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+370,131104,2009-07-16 15:42:04,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+371,131105,2009-07-16 15:42:04,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+372,132341,2009-07-18 10:02:17,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+373,132374,2009-07-18 10:02:17,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+374,132375,2009-07-18 10:02:17,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+375,132402,2009-07-18 10:22:05,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+376,132468,2009-07-18 10:22:05,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+377,132469,2009-07-18 10:22:05,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+378,132470,2009-07-18 10:22:05,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+379,132847,2009-07-18 21:37:02,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+380,132883,2009-07-18 21:37:02,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+381,132884,2009-07-18 21:37:02,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+382,133363,2009-07-19 12:02:07,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+383,133395,2009-07-19 12:02:07,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+384,133396,2009-07-19 12:02:07,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+385,134509,2009-07-20 21:34:59,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+386,134575,2009-07-20 21:34:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+387,134576,2009-07-20 21:34:59,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+388,134893,2009-07-21 08:47:03,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+389,134959,2009-07-21 08:47:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+390,134960,2009-07-21 08:47:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+391,134961,2009-07-21 08:47:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+392,139318,2009-07-26 10:57:22,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+393,139364,2009-07-26 10:57:22,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+394,139365,2009-07-26 10:57:22,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+395,139371,2009-07-26 10:57:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+396,139437,2009-07-26 10:57:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+397,139438,2009-07-26 10:57:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+398,139439,2009-07-26 10:57:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+399,139500,2009-07-26 12:13:36,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+400,139531,2009-07-26 12:13:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+401,139532,2009-07-26 12:13:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+402,139533,2009-07-26 12:13:36,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+403,139641,2009-07-26 15:16:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+404,139707,2009-07-26 15:16:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+405,139708,2009-07-26 15:16:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+406,139709,2009-07-26 15:16:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+407,139716,2009-07-26 15:17:08,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+408,139782,2009-07-26 15:17:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+409,139783,2009-07-26 15:17:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+410,139784,2009-07-26 15:17:08,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+411,140980,2009-07-28 08:07:28,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+412,141041,2009-07-28 08:07:28,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+413,141248,2009-07-28 14:33:29,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+414,141314,2009-07-28 14:33:29,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+415,141315,2009-07-28 14:33:29,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+416,141316,2009-07-28 14:33:29,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+417,141324,2009-07-28 14:35:53,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+418,141386,2009-07-28 14:35:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+419,141387,2009-07-28 14:35:53,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+420,141417,2009-07-28 14:56:42,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+421,141448,2009-07-28 14:56:42,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+422,141449,2009-07-28 14:56:42,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+423,141464,2009-07-28 15:18:54,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+424,141530,2009-07-28 15:18:55,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+425,141531,2009-07-28 15:18:55,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+426,141532,2009-07-28 15:18:55,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+427,144593,2009-08-01 10:36:30,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+428,144659,2009-08-01 10:36:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+429,144660,2009-08-01 10:36:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+430,144661,2009-08-01 10:36:30,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+431,144749,2009-08-01 11:54:00,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+432,144815,2009-08-01 11:54:00,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+433,144816,2009-08-01 11:54:00,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+434,144817,2009-08-01 11:54:00,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+435,145064,2009-08-01 18:54:02,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+436,145130,2009-08-01 18:54:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+437,145131,2009-08-01 18:54:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+438,145132,2009-08-01 18:54:03,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+439,145161,2009-08-01 19:41:38,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+440,145189,2009-08-01 19:41:38,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+441,145190,2009-08-01 19:41:38,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+442,145191,2009-08-01 19:41:38,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+443,145256,2009-08-01 21:34:46,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+444,146603,2009-08-03 08:57:45,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+445,146669,2009-08-03 08:57:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+446,146670,2009-08-03 08:57:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+447,146671,2009-08-03 08:57:45,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+448,146867,2009-08-03 14:29:32,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+449,146903,2009-08-03 14:29:33,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+450,146904,2009-08-03 14:29:33,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+451,147490,2009-08-04 12:43:31,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+452,147523,2009-08-04 12:43:31,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+453,147524,2009-08-04 12:43:31,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+454,147599,2009-08-04 14:39:33,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+455,147635,2009-08-04 14:39:33,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+456,147636,2009-08-04 14:39:33,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+457,148975,2009-08-06 02:51:35,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+458,149011,2009-08-06 02:51:35,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+459,149012,2009-08-06 02:51:35,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+460,149412,2009-08-06 13:39:16,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+461,149478,2009-08-06 13:39:16,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+462,149479,2009-08-06 13:39:16,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+463,149480,2009-08-06 13:39:16,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+464,149573,2009-08-06 15:17:19,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+465,149613,2009-08-06 15:17:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+466,149614,2009-08-06 15:17:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+467,149615,2009-08-06 15:17:19,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+468,151850,2009-08-09 11:18:32,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+469,151881,2009-08-09 11:18:32,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+470,151882,2009-08-09 11:18:32,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+471,151883,2009-08-09 11:18:32,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+472,153053,2009-08-10 21:41:51,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+473,153088,2009-08-10 21:41:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+474,153089,2009-08-10 21:41:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+475,153090,2009-08-10 21:41:51,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+476,153529,2009-08-11 11:02:42,chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+477,153595,2009-08-11 11:02:42,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+478,153596,2009-08-11 11:02:42,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+479,153597,2009-08-11 11:02:42,chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
