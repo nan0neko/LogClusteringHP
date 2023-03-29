@@ -29,10 +29,9 @@ arr=faiss.vector_to_array(index.codes)
 #storing the data in terms of a dictionary where key is the bucket number and value is the items stored in that bucket
 
 dic={}
-ia=0
+
 for i,val in enumerate(arr):
-    if(ia==1):
-        break
+    
     if val not in dic:
         dic[val] =[i]
     else:
