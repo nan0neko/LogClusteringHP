@@ -1,0 +1,58 @@
+import faiss
+import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
+#reading the file and separating the date and the message part
+data=pd.read_csv("logtable.csv",names=['date','message'],sep=" - ")
+#date field 
+df_y=data['date']
+#message field
+df_x=data['message']
+#initializing count vectorizer
+tf=CountVectorizer()
+#transforming the message using count vectorizer
+data_2=tf.fit_transform(df_x).toarray()
+dim=data_2.shape[1]
+m=1
+n_bits=8
+#using pq
+index=faiss.IndexPQ(dim,m,n_bits)
+index.train(data_2)
+index.add(data_2)
+#getting the cluster number of each of the item
+arr=faiss.vector_to_array(index.codes)
+#storing the data in terms of a dictionary where key is the bucket number and value is the items stored in that bucket
+
+dic={}
+for i,val in enumerate(arr):
+    if val not in dic:
+        dic[val] =[i]
+    else:
+        dic[val].append(i)
+#finding the average cosine similiarity where for each file the first log is compared to all the other logs and for each file we find the average
+
+simi=0
+for op,l in dic.items():
+    x=cosine_similarity( [data_2[l[0]]],data_2[l])
+    y=x.mean()
+    
+    simi=simi+y
+#average of all the files 
+
+print(f"cosine similarity of pq using count vectorizer :{simi/len(dic)}")
+ 
+#code to group the given data present in the dictionary into different csv files        
+# for i in dic.keys():
+#     name='C:\\Users\\dhruv\\OneDrive\\Desktop\\ython\\outt\\'+str(i)+'_clusternumber.csv'
+#     arra=[]
+#     numb=[]
+#     deta=[]
+#     for j in dic[i]:
+#         arra.append(df_y[j])
+#         numb.append(j)
+#         deta.append(df_x[j])
+#     dict={'log_no':numb,'date':arra,'time':deta}
+#     data_f=pd.DataFrame(dict)
+#     data_f.to_csv(name)        
