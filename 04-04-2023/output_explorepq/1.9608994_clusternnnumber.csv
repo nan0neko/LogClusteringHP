@@ -1,0 +1,3 @@
+,log_no,date,time
+0,118464,"""2009-07-06 01:31:25","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"""
+1,118469,"""2009-07-06 01:35:07","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"""

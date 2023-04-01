@@ -1,0 +1,5 @@
+,log_no,date,time
+0,123758,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+1,123759,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+2,123760,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""
+3,123761,"""2009-07-08 07:49:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"""

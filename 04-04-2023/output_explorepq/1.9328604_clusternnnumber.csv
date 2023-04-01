@@ -1,0 +1,4 @@
+,log_no,date,time
+0,123618,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+1,123698,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+2,123706,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init

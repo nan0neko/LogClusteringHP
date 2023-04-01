@@ -1,0 +1,5 @@
+,log_no,date,time
+0,118483,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+1,118484,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+2,118712,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+3,118713,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//

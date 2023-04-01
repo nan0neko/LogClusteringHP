@@ -1,0 +1,4 @@
+,log_no,date,time
+0,123620,2009-07-08 07:48:03,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+1,123700,2009-07-08 07:48:04,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+2,123708,2009-07-08 07:48:12,chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
