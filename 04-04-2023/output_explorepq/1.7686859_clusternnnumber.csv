@@ -1,0 +1,2 @@
+,log_no,date,time
+0,42673,2009-05-30 05:29:03,rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (proto) failed: Unknown error: -

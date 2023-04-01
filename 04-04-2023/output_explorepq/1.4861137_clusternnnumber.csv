@@ -1,0 +1,2 @@
+,log_no,date,time
+0,102779,"""2009-06-28 12:36:34","rpd: %DAEMON-: bgp_read_message:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (invalid), Data:    """

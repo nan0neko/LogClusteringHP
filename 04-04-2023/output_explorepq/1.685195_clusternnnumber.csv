@@ -1,0 +1,3 @@
+,log_no,date,time
+0,118485,2009-07-06 01:41:10,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+1,118714,2009-07-06 01:43:11,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//

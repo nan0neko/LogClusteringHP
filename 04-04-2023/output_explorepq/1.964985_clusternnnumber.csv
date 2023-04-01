@@ -1,0 +1,6 @@
+,log_no,date,time
+0,118480,"""2009-07-06 01:41:10","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"""
+1,118709,"""2009-07-06 01:43:11","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"""
+2,123716,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"""
+3,123722,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q XGE+XLGE @ /*/*, jnxFruType , jnxFruSlot )"""
+4,123729,"""2009-07-08 07:48:15","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"""
