@@ -1,9 +1,0 @@
-,log_no,date,time
-0,118982,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
-1,118991,2009-07-06 01:56:43,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
-2,119036,2009-07-06 02:00:56,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
-3,119045,2009-07-06 02:00:57,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
-4,119529,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
-5,119538,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
-6,119547,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
-7,119556,2009-07-06 07:26:28,chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//

@@ -1,2 +1,0 @@
-,log_no,date,time
-0,32176,"""2009-05-23 15:11:52","rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Idle"""

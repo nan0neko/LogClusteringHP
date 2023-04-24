@@ -1,4 +1,0 @@
-,log_no,date,time
-0,44125,2009-05-30 19:43:03,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
-1,58692,2009-06-06 10:34:42,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
-2,132885,2009-07-18 21:37:16,chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor

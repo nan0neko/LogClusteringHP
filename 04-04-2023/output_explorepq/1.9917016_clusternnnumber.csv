@@ -1,2 +1,0 @@
-,log_no,date,time
-0,128060,"""2009-07-13 02:39:41","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU removal (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"""

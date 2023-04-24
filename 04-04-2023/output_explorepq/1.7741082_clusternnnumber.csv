@@ -1,7 +1,0 @@
-,log_no,date,time
-0,42564,2009-05-30 04:16:11,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
-1,42615,2009-05-30 04:51:25,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
-2,42668,2009-05-30 05:28:05,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
-3,42695,2009-05-30 05:40:42,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
-4,116511,2009-07-05 02:30:49,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
-5,116543,2009-07-05 02:54:02,rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)

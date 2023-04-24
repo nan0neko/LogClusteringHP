@@ -1,2 +1,0 @@
-,log_no,date,time
-0,123715,2009-07-08 07:48:14,chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_INFO: INFO: ns_subagent_open_session: NET-SNMP version .. AgentX subagent Open-Sent!

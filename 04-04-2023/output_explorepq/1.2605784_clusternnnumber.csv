@@ -1,2 +1,0 @@
-,log_no,date,time
-0,123713,"""2009-07-08 07:48:14","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: redundancy switchover (jnxRedundancyContentsIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyDescr Routing Engine , jnxRedundancyConfig , jnxRedundancyState , jnxRedundancySwitchoverCount , jnxRedundancySwitchoverTime , jnxRedundancySwitchoverReason )"""

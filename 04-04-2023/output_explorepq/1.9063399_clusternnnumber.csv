@@ -1,4 +1,0 @@
-,log_no,date,time
-0,123611,"""2009-07-08 07:47:52","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"""
-1,123613,"""2009-07-08 07:47:55","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"""
-2,123615,"""2009-07-08 07:47:58","chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"""

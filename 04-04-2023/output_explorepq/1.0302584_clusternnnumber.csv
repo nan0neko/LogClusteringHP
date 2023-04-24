@@ -1,2 +1,0 @@
-,log_no,date,time
-0,123746,"""2009-07-08 07:48:44","chassisd[]: %DAEMON--CHASSISD_IFDEV_DETACH_PSEUDO: ifdev_detach(pseudo devices: porttype , sdev=, edev=)"""
