@@ -1,0 +1,2272 @@
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: media
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+
+
+
+actual log:
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+ nearest logs: 
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+/usr/sbin/cron[]: %CRON-: (root) CMD (newsyslog -X)
+
+
+
+actual log:
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+ nearest logs: 
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+/usr/sbin/cron[]: %CRON-: (root) CMD (   /usr/libexec/atrun)
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ge-//
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+
+
+
+actual log:
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+ nearest logs: 
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+/usr/sbin/cron[]: %CRON-: (root) CMD (adjkerntz -a)
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: pp
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: extensive
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: summary
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descriptions
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+ nearest logs: 
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+
+
+
+actual log:
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+ nearest logs: 
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+/usr/sbin/cron[]: %CRON-: (root) CMD (/usr/sbin/check-support -l)
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+rpd: %DAEMON-: bgp_pp_recv: dropping _IP__PORT (External AS ), connection collision prefers _IP__PORT (proto)"
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc-e-e-ng for chassisd
+
+
+
+actual log:
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+ nearest logs: 
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+
+
+
+actual log:
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+ nearest logs: 
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+chassisd[]: %DAEMON-:  jam_plugin_init: n_xf , n_xf , n_tx  rx_fill_flag _HEXNUM_ rate_ratio[] "
+
+
+
+actual log:
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+ nearest logs: 
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fasic_attrib_set: In config_mode returning for _HEXNUM_
+
+
+
+actual log:
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+ nearest logs: 
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fabric Plugin Init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+ nearest logs: 
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SFB Fasic Plugin Init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+
+
+
+actual log:
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+ nearest logs: 
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_mic_xge PIC.
+
+
+
+actual log:
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+ nearest logs: 
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_tic_xge PIC.
+
+
+
+actual log:
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+ nearest logs: 
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for stout_load_mic PIC.
+
+
+
+actual log:
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+ nearest logs: 
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for srxk_pic_xge PIC.
+
+
+
+actual log:
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+ nearest logs: 
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpc--- for chassisd
+
+
+
+actual log:
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+ nearest logs: 
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+ nearest logs: 
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+chassisd[]: %DAEMON-: FABRIC PLUGIN MPC INIT: jam_mpc_fabric_plugin_init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+ nearest logs: 
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+chassisd[]: %DAEMON-: jam_plugin_init: MPC Fabric Plugin Done, return , skip others"
+
+
+
+actual log:
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+ nearest logs: 
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+
+
+
+actual log:
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+ nearest logs: 
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id d speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+chassisd[]: %DAEMON-: mpc_coef_setup: registering fru_id c speed  midplane_version
+
+
+
+actual log:
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+ nearest logs: 
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+chassisd[]: %DAEMON-: JAM:PL: product model identified as
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ccc
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for ce
+
+
+
+actual log:
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+ nearest logs: 
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+chassisd[]: %DAEMON--JAM: Plugin installed for ferrari_pic_xqsfpp PIC.
+
+
+
+actual log:
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+ nearest logs: 
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc--- for chassisd.
+chassisd[]: %DAEMON--JAM: All PIC/MIC plugins are installed for jam-mpc for chassisd.
+
+
+
+actual log:
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+ nearest logs: 
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+
+
+
+actual log:
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+ nearest logs: 
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+chassisd[]: %DAEMON-: jam_plugin_init: SCBE Fabric Plugin Init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+ nearest logs: 
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+chassisd[]: %DAEMON-: fasic_ic_read_get_chip_type: Reading CB  IC ID from ideeprom.
+
+
+
+actual log:
+rpd: %DAEMON-: ted_client reset
+ nearest logs: 
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+rpd: %DAEMON-: ted_client reset
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+chassisd[]: %DAEMON--CHASSISD_PARSE_COMPLETE: Using new configuration
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_hold_timeout:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+ nearest logs: 
+rpd: %DAEMON-: bgp_hold_timeout:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_hold_timeout:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+ nearest logs: 
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+ nearest logs: 
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+rpd: %DAEMON-: bgp_bfd_callback:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Cease) subcode  (Hard Reset), Reason: BFD Session Down"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+ nearest logs: 
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: routing-instance
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+ nearest logs: 
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (proto) failed: Unknown error: -
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Idle"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Idle"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state OpenConfirm"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (External AS ), peer in state Established"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+ nearest logs: 
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Hold Timer Expired Error), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
+ nearest logs: 
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Other Configuration Change)
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Hard Reset) [code  (Cease) subcode  (Peer Unconfigured)]
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (Internal AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Collision Resolution), Reason: dropping _IP__PORT (proto), connection collision prefers _IP__PORT (External AS )"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+ nearest logs: 
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Hard Reset) [code  (Cease) subcode  (Peer Unconfigured)]
+ nearest logs: 
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Hard Reset) [code  (Cease) subcode  (Peer Unconfigured)]
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Cease) subcode  (Hard Reset) [code  (Cease) subcode  (Peer Unconfigured)]
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Cease)
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+ nearest logs: 
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+rpd: %DAEMON-: bgp_pp_recv: rejecting connection from _IP__PORT (Internal AS ), peer in state Established"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (proto) failed: Unknown error: -
+ nearest logs: 
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (proto) failed: Unknown error: -
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+rpd: %DAEMON-: bgp_recv: read from peer _IP__PORT (External AS ) failed: Unknown error:
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+chassisd[]: %DAEMON-: JAM:PL: Completed plugin init for jam-mpcfor chassisd
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+chassisd[]: %DAEMON--CHASSISD_HOST_TEMP_READ: Error reading host temperature sensor
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: lo
+
+
+
+actual log:
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+ nearest logs: 
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+rpd: %DAEMON-: other_re_command_execute_by_iri:{other_re='re',iri=}"
+
+
+
+actual log:
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+ nearest logs: 
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+
+
+
+actual log:
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+ nearest logs: 
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',net='AF_TNP'} rcmd_rt with RT_TABLE_DEFAULT iri table"
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+ nearest logs: 
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (External AS ): received unexpected EOF
+ nearest logs: 
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (External AS ): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (External AS ): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+rpd: %DAEMON-: bgp_recv: peer _IP__PORT (proto): received unexpected EOF
+
+
+
+actual log:
+rpd: %DAEMON--IF: Skipped marking address fe::aa:ff:fe:ffc on ifl ae. as UP. Reason: addr is in TENTATIVE state.
+ nearest logs: 
+rpd: %DAEMON--IF: Skipped marking address fe::aa:ff:fe:ffc on ifl ae. as UP. Reason: addr is in TENTATIVE state.
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ae
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+
+
+
+actual log:
+rpd: %DAEMON-: bgp_read_message:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (invalid), Data:    "
+ nearest logs: 
+rpd: %DAEMON-: bgp_read_message:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (invalid), Data:    "
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (Internal AS ): code  (Open Message Error)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+rpd: %DAEMON-: bgp_handle_notify:: NOTIFICATION received from _IP__PORT (External AS ): code  (Open Message Error) subcode  (authentication failure)
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED: Fans and impellers are now running at normal speed
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED: Fans and impellers are now running at normal speed
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ae
+rpd: %DAEMON--IF: Skipped marking address fe::aa:ff:fe:ffc on ifl ae. as UP. Reason: addr is in TENTATIVE state.
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED: Fans and impellers are now running at normal speed
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q XGE+XLGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU removal (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q XGE+XLGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE NG HQoS @ /*/*, jnxFruType , jnxFruSlot )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfh-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pfe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Window interval not changed () for chan . Not updating
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes CBF-chan-tx-
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished serdes      ==> CBF-chan-rx-.
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+chassisd[]: %DAEMON--HSL: Primitive bringup finished      ==> CBF-chan-rx- initialization.
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup Started Training on TX CBF-chan-tx-
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained word alignment on RX CBF-chan-rx-.
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+chassisd[]: %DAEMON--HSL: Primitive trained channel bonding on RX CBF-chan-rx-.
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup issued start_command on TX CBF-chan-tx-
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup enables TX CBF-chan-tx-
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entConfigChanged
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for et-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pd-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lc-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for pe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for mt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for lt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for vt-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ut-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ip-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for ud-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+ nearest logs: 
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ae
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: Initializing jspec module xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: Initializing jspec module xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Primary ic handle created successfully xfchip_pre_init
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+chassisd[]: %DAEMON-: XFCHIP[]: jtad id read/check successful xfchip_pre_init: part num = _HEXNUM_
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+chassisd[]: %DAEMON-: jam_core_fabric_attrib_set: In config_mode returning for _HEXNUM_
+
+
+
+actual log:
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+ nearest logs: 
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Hostif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Rcbusif registered successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: PCIE handle created successfully xfchip_pre_init
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: HSL register CBF id _HEXNUM_   cookie _HEXNUM_
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: HSL register CBF id _HEXNUM_   cookie _HEXNUM_
+chassisd[]: %DAEMON--HSL: HSL register CBF id _HEXNUM_   cookie _HEXNUM_
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+chassisd[]: %DAEMON--HSL: Primitive bringup finished CBF-chan-tx-
+
+
+
+actual log:
+chassisd[]: %DAEMON-: chan_count  num_chan
+ nearest logs: 
+chassisd[]: %DAEMON-: chan_count  num_chan
+chassisd[]: %DAEMON-: chan_count  num_chan
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: create_pics: created interface device for xe-//
+
+
+
+actual log:
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+ nearest logs: 
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+chassisd[]: %DAEMON--HSL: Register channel map   src    dst    Primitive flag _HEXNUM_  _HEXNUM_ _HEXNUM_
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: redundancy switchover (jnxRedundancyContentsIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyDescr Routing Engine , jnxRedundancyConfig , jnxRedundancyState , jnxRedundancySwitchoverCount , jnxRedundancySwitchoverTime , jnxRedundancySwitchoverReason )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: redundancy switchover (jnxRedundancyContentsIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyLIndex , jnxRedundancyDescr Routing Engine , jnxRedundancyConfig , jnxRedundancyState , jnxRedundancySwitchoverCount , jnxRedundancySwitchoverTime , jnxRedundancySwitchoverReason )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for c
+chassisd[]: %DAEMON-: JAM:PL: Registered attributes for d
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SIGPIPE: SIGPIPE received
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SIGPIPE: SIGPIPE received
+chassisd[]: %DAEMON--CHASSISD_SIGPIPE: SIGPIPE received
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+chassisd[]: %DAEMON--HSL: Aging threshold not changed () for chan . Not updating
+
+
+
+actual log:
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_INFO: INFO: ns_subagent_open_session: NET-SNMP version .. AgentX subagent Open-Sent!
+ nearest logs: 
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_INFO: INFO: ns_subagent_open_session: NET-SNMP version .. AgentX subagent Open-Sent!
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+rpd: %DAEMON-: mchassis_re_command_execute_status_by_iri:{hostname='re',iri=,cmdbuf='mv -f /mfs/var/tmp/tag_restart.db /mfs/var/db/tag_restart.db'}"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE NG HQoS @ /*/*, jnxFruType , jnxFruSlot )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE NG HQoS @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE NG HQoS @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE NG HQoS @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE NG HQoS @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q XGE+XLGE @ /*/*, jnxFruType , jnxFruSlot )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q XGE+XLGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: XGE SFPP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: XGE SFPP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: XGE SFPP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: XGE SFPP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE  XFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE  XFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE  XFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE(LAN)-E,SFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE(LAN)-E,SFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE(LAN)-E,SFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE(LAN)-E,SFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE  XFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: D x GE  XFP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_IFDEV_DETACH_PSEUDO: ifdev_detach(pseudo devices: porttype , sdev=, edev=)"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_IFDEV_DETACH_PSEUDO: ifdev_detach(pseudo devices: porttype , sdev=, edev=)"
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: terse
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_RECONNECT_SUCCESSFUL: Successfully reconnected on soft restart
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_RECONNECT_SUCCESSFUL: Successfully reconnected on soft restart
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+chassisd[]: %DAEMON-:  jam_plugin_init: registered coefficeints successfully
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Power Supply OK (jnxContentsContainerIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsLIndex , jnxContentsDescr PEM , jnxOperatingState )"
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+chassisd[]: %DAEMON--CHASSISD_IFDEV_CREATE_NOTICE: fpc_create_devs_from_queue: created interface device for gr-//
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descr
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: descr
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU insertion (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON-: chan_count  num_chan
+chassisd[]: %DAEMON-: chan_count  num_chan
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: desc
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: desc
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: desc
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: desc
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON--HSL: HSL register CBF id _HEXNUM_   cookie _HEXNUM_
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON-: XFCHIP[]: Secondary ic handle created successfully xfchip_pre_init
+chassisd[]: %DAEMON--HSL: HSL register CBF id _HEXNUM_   cookie _HEXNUM_
+chassisd[]: %DAEMON-: XFCHIP[]: Jspec registered successfully xfchip_pre_init
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ae
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: ae
+rpd: %DAEMON--IF: Skipped marking address fe::aa:ff:fe:ffc on ifl ae. as UP. Reason: addr is in TENTATIVE state.
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+chassisd[]: %DAEMON--CHASSISD_BLOWERS_SPEED_FULL: Fans and impellers being set to full speed [system warm]
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+chassisd[]: %DAEMON--LIBJSNMP_NS_LOG_ERR: ERR: snmpd: send_trap: Failure in sendto (Broken pipe)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+rpd: %DAEMON-: bgp_pp_recv:: NOTIFICATION sent to _IP__PORT (proto): code  (Cease) subcode  (Connection Rejected)
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Offline (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Offline (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Offline (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Offline (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Offline (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName PIC:  @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperDisabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: ENTITY trap generated: entStateOperEnabled (entPhysicalIndex , entStateAdmin , entStateAlarm )"
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU removal (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName FPC: MPCE D Q CGE+XGE @ /*/*, jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: de
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+
+
+
+actual log:
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU removal (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+ nearest logs: 
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU removal (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: Fru Online (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName Routing Engine , jnxFruType , jnxFruSlot )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName CB , jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: XGE SFPP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+chassisd[]: %DAEMON--CHASSISD_SNMP_TRAP: SNMP trap generated: FRU power on (jnxFruContentsIndex , jnxFruLIndex , jnxFruLIndex , jnxFruLIndex , jnxFruName MIC: XGE SFPP @ //*, jnxFruType , jnxFruSlot , jnxFruOfflineReason , jnxFruLastPowerOff , jnxFruLastPowerOn )"
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: description
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: description
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: |
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: diagnostics
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: diagnostics
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+rpd: %DAEMON-: bgp_io_mgmt_cb:: NOTIFICATION sent to _IP__PORT (External AS ): code  (Hold Timer Expired Error), Reason: holdtime expired for _IP__PORT (External AS ), socket buffer sndacc:  rcvacc:  , socket buffer sndccc:  rcvccc:  TCP state: , snd_una:  snd_nxt:  snd_wnd:  rcv_nxt:  rcv_adv: , hold timer s, hold timer remain s, last sent s, TCP port (local , remote )"
+
+
+
+actual log:
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: diag
+ nearest logs: 
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: diag
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+ifinfo: %USER--IFINFO_IFD_NAME: IFD: xe-//
+
+
+
