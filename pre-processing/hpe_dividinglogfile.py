@@ -5,7 +5,7 @@ import csv
 from collections import Counter
 
 regex="\"?\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2} - ifinfo.*"
-y="C:\\Users\\dhruv\\OneDrive\\Desktop\\ython\\logtable.csv"
+y="logtable.csv"
 with open(y) as f:
     fread=f.read()
 
