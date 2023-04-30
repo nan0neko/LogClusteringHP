@@ -38,7 +38,7 @@ dqta=data_2[dic[151]]
 dqta=dqta.reshape(1,dim)
 
 for i in dic.keys():
-    name='C:\\Users\\dhruv\\OneDrive\\Desktop\\ython\\outputss\\'+str(i)+'_bucketnumber1_count.csv'
+    name=str(i)+'_bucketnumber1_count.csv'
     arra=[]
     numb=[]
     deta=[]
