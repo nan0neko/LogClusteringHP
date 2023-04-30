@@ -28,7 +28,7 @@ for i,val in enumerate(arr):
 
         
 # for i in dic.keys():
-#     name='C:\\Users\\dhruv\\OneDrive\\Desktop\\ython\\outt\\'+str(i)+'_clusternumber.csv'
+#     name=str(i)+'_clusternumber.csv'
 #     arra=[]
 #     numb=[]
 #     deta=[]
