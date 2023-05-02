@@ -13,7 +13,7 @@ df_y=data['date']
 df_x=data['message']
 uni=df_x.unique()
 #initializing tfidf
-tf=TfidfVectorizer(stop_words='english')
+tf=TfidfVectorizer()
 #transforming the message using tfidf
 data_2=tf.fit_transform(df_x).toarray()
 data_3=tf.fit_transform(uni).toarray()
