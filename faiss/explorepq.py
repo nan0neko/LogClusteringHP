@@ -19,7 +19,7 @@ data_2=tf.fit_transform(df_x).toarray()
 data_3=tf.fit_transform(uni).toarray()
 dim=data_2.shape[1]
 print(dim)
-m=35
+m=18
 n_bits=8
 #using pq
 index=faiss.IndexPQ(dim,m,n_bits)
