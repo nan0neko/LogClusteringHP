@@ -1,0 +1,11 @@
+,Date,Time,Message
+89608,2009-06-21,23:26:54,rpd: %DAEMON-#: bgp_handle_notify:####: NOTIFICATION received from _IP__PORT (External AS #####): code # (Cease)
+51,2009-05-14,00:45:58,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+71,2009-05-14,01:03:15,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+792,2009-05-14,09:46:33,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+1291,2009-05-14,14:50:10,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+1646,2009-05-14,19:26:38,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+2170,2009-05-15,01:27:01,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+2301,2009-05-15,03:05:45,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+2632,2009-05-15,06:52:51,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
+2982,2009-05-15,10:52:17,rpd: %DAEMON-#: bgp_pp_recv:####: NOTIFICATION sent to _IP__PORT (proto): code # (Cease) subcode # (Connection Rejected)
