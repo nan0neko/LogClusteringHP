@@ -1,0 +1,3 @@
+Neighbor Value
+chassisd DAEMON CHASSISD_IFDEV_DETACH_PSEUDO ifdev_detach pseudo devices porttype sdev edev
+chassisd DAEMON CHASSISD_IFDEV_DETACH_PSEUDO ifdev_detach pseudo devices porttype sdev edev
