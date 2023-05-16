@@ -1,0 +1,2 @@
+Neighbor Value
+rpd DAEMON mchassis_re_command_execute_status_by_iri hostname re net AF_TNP rcmd_rt with RT_TABLE_DEFAULT iri table
