@@ -1,0 +1,142 @@
+Distance,Neighbor Value,1
+0.0,usr sbin cron CRON root CMD newsyslog X,2289
+0.3323579728603363,usr sbin cron CRON root CMD usr libexec atrun,8286
+0.62510746717453,usr sbin cron CRON root CMD adjkerntz a,341
+0.7161999940872192,usr sbin cron CRON root CMD usr sbin check support l,16
+1.2444266080856323,ifinfo USER IFINFO_IFD_NAME IFD diag,1
+1.2612507343292236,ifinfo USER IFINFO_IFD_NAME IFD routing instance,209
+1.2625435590744019,chassisd DAEMON XFCHIP Initializing jspec module xfchip_pre_init,1
+1.269762635231018,chassisd DAEMON JAM PL Completed plugin init for jam mpcfor chassisd,114
+1.309425711631775,rpd DAEMON mchassis_re_command_execute_status_by_iri hostname re iri cmdbuf mv f mfs var tmp tag_restart db mfs var db tag_restart db,11
+1.3211541175842285,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU insertion jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName FPC MPCE D Q CGE XGE jnxFruType jnxFruSlot,2
+1.3293532133102417,chassisd DAEMON CHASSISD_IFDEV_DETACH_PSEUDO ifdev_detach pseudo devices porttype sdev edev,1
+1.3437258005142212,rpd DAEMON bgp_pp_recv dropping _IP__PORT External AS connection collision prefers _IP__PORT proto,46
+1.3462796211242676,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for vt,8
+1.3470970392227173,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated redundancy switchover jnxRedundancyContentsIndex jnxRedundancyLIndex jnxRedundancyLIndex jnxRedundancyLIndex jnxRedundancyDescr Routing Engine jnxRedundancyConfig jnxRedundancyState jnxRedundancySwitchoverCount jnxRedundancySwitchoverTime jnxRedundancySwitchoverReason,1
+1.352383017539978,chassisd DAEMON CHASSISD_PARSE_COMPLETE Using new configuration,143
+1.3545973300933838,chassisd DAEMON XFCHIP Hostif pcie endpoint configured successfully during reconnect xfchip_pre_init,3
+1.3601272106170654,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for pfe,4
+1.3605012893676758,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for ip,8
+1.3609122037887573,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for mt,8
+1.3624765872955322,ifinfo USER IFINFO_IFD_NAME IFD pp,1027
+1.3630393743515015,chassisd DAEMON JAM PL Completed plugin init for jam mpc for chassisd,103
+1.3633508682250977,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for lc,4
+1.3667793273925781,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for lt,8
+1.3693909645080566,chassisd DAEMON JAM PL Completed plugin init for jam mpc e e ng for chassisd,138
+1.371535062789917,chassisd DAEMON JAM PL Registered attributes for d,264
+1.3725405931472778,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU removal jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName Routing Engine jnxFruType jnxFruSlot,1
+1.374172329902649,rpd DAEMON bgp_pp_recv NOTIFICATION sent to _IP__PORT proto code Cease subcode Connection Collision Resolution Reason dropping _IP__PORT proto connection collision prefers _IP__PORT External AS,6
+1.374172329902649,rpd DAEMON bgp_pp_recv NOTIFICATION sent to _IP__PORT proto code Cease subcode Connection Collision Resolution Reason dropping _IP__PORT proto connection collision prefers _IP__PORT Internal AS,8
+1.3745477199554443,chassisd DAEMON HSL HSL register CBF id _HEXNUM_ cookie _HEXNUM_,2
+1.374839186668396,chassisd DAEMON HSL Register channel map src dst Primitive flag _HEXNUM_ _HEXNUM_ _HEXNUM_,70
+1.3750944137573242,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for ut,8
+1.3756588697433472,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for pd,8
+1.3759218454360962,ifinfo USER IFINFO_IFD_NAME IFD diagnostics,1
+1.3761746883392334,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for gr,8
+1.3823001384735107,chassisd DAEMON LIBJSNMP_NS_LOG_ERR ERR snmpd send_trap Failure in sendto Broken pipe,3
+1.3840886354446411,ifinfo USER IFINFO_IFD_NAME IFD description,1
+1.3841344118118286,rpd DAEMON bgp_handle_notify NOTIFICATION received from _IP__PORT External AS code Open Message Error subcode authentication failure,229
+1.3847113847732544,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for pfh,2
+1.3864785432815552,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU power on jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName MIC D x GE XFP jnxFruType jnxFruSlot jnxFruOfflineReason jnxFruLastPowerOff jnxFruLastPowerOn,2
+1.3864785432815552,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU power on jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName MIC D x GE LAN E SFP jnxFruType jnxFruSlot jnxFruOfflineReason jnxFruLastPowerOff jnxFruLastPowerOn,3
+1.3871135711669922,rpd DAEMON bgp_pp_recv NOTIFICATION sent to _IP__PORT External AS code Cease subcode Connection Collision Resolution Reason dropping _IP__PORT External AS connection collision prefers _IP__PORT proto,46
+1.3879767656326294,chassisd DAEMON CHASSISD_HOST_TEMP_READ Error reading host temperature sensor,3
+1.3883894681930542,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE create_pics created interface device for et,4
+1.3885467052459717,rpd DAEMON bgp_pp_recv NOTIFICATION sent to _IP__PORT proto code Cease subcode Connection Rejected,34105
+1.390519618988037,rpd DAEMON bgp_handle_notify NOTIFICATION received from _IP__PORT Internal AS code Cease subcode Hard Reset code Cease subcode Peer Unconfigured,2
+1.3917629718780518,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for pe,8
+1.3952293395996094,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE create_pics created interface device for xe,8
+1.3973124027252197,ifinfo USER IFINFO_IFD_NAME IFD summary,182
+1.39766263961792,rpd DAEMON bgp_handle_notify NOTIFICATION received from _IP__PORT External AS code Hold Timer Expired Error socket buffer sndacc rcvacc socket buffer sndccc rcvccc TCP state snd_una snd_nxt snd_wnd rcv_nxt rcv_adv hold timer s hold timer remain s last sent s TCP port local remote,8
+1.397952675819397,chassisd DAEMON mpc_coef_setup registering fru_id d speed midplane_version,173
+1.3982399702072144,chassisd DAEMON JAM All PIC MIC plugins are installed for jam mpc for chassisd,219
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP ENTITY trap generated entConfigChanged,12
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP ENTITY trap generated entStateOperDisabled entPhysicalIndex entStateAdmin entStateAlarm,4
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP ENTITY trap generated entStateOperEnabled entPhysicalIndex entStateAdmin entStateAlarm,30
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated Fru Offline jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName Routing Engine jnxFruType jnxFruSlot jnxFruOfflineReason jnxFruLastPowerOff jnxFruLastPowerOn,4
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated Fru Online jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName FPC MPCE D Q CGE XGE jnxFruType jnxFruSlot,4
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated Fru Online jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName FPC MPCE D Q XGE XLGE jnxFruType jnxFruSlot,1
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated Fru Online jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName FPC MPCE NG HQoS jnxFruType jnxFruSlot,4
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated Fru Online jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName Routing Engine jnxFruType jnxFruSlot,4
+1.3986082077026367,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated Power Supply OK jnxContentsContainerIndex jnxContentsLIndex jnxContentsLIndex jnxContentsLIndex jnxContentsDescr PEM jnxOperatingState,4
+1.3999994993209839,ifinfo USER IFINFO_IFD_NAME IFD extensive,179
+1.4008058309555054,rpd DAEMON bgp_hold_timeout NOTIFICATION sent to _IP__PORT External AS code Hold Timer Expired Error Reason holdtime expired for _IP__PORT External AS socket buffer sndacc rcvacc socket buffer sndccc rcvccc TCP state snd_una snd_nxt snd_wnd rcv_nxt rcv_adv hold timer s hold timer remain s last sent s TCP port local remote,2
+1.4008058309555054,rpd DAEMON bgp_io_mgmt_cb NOTIFICATION sent to _IP__PORT External AS code Hold Timer Expired Error Reason holdtime expired for _IP__PORT External AS socket buffer sndacc rcvacc socket buffer sndccc rcvccc TCP state snd_una snd_nxt snd_wnd rcv_nxt rcv_adv hold timer s hold timer remain s last sent s TCP port local remote,358
+1.4015134572982788,chassisd DAEMON HSL Primitive bringup finished CBF chan rx initialization,23
+1.4023441076278687,chassisd DAEMON JAM PL Registered attributes for c,820
+1.4034743309020996,chassisd DAEMON HSL Primitive trained word alignment on RX CBF chan rx,24
+1.4036641120910645,chassisd DAEMON XFCHIP Primary ic handle created successfully xfchip_pre_init,3
+1.4036641120910645,chassisd DAEMON XFCHIP Secondary ic handle created successfully xfchip_pre_init,4
+1.4060170650482178,rpd DAEMON ted_client reset,109
+1.4063169956207275,chassisd DAEMON CHASSISD_RECONNECT_SUCCESSFUL Successfully reconnected on soft restart,1
+1.4070627689361572,ifinfo USER IFINFO_IFD_NAME IFD ge,620
+1.410427212715149,chassisd DAEMON CHASSISD_BLOWERS_SPEED_FULL Fans and impellers being set to full speed system warm,2
+1.4115195274353027,rpd DAEMON bgp_bfd_callback NOTIFICATION sent to _IP__PORT External AS code Cease subcode Hard Reset Reason BFD Session Down,21
+1.413151502609253,chassisd DAEMON CHASSISD_BLOWERS_SPEED Fans and impellers are now running at normal speed,1
+1.4142135381698608,chassisd DAEMON jam_plugin_init n_xf n_xf n_tx rx_fill_flag _HEXNUM_ rate_ratio,135
+1.4142135381698608,chassisd DAEMON FABRIC PLUGIN MPC INIT jam_mpc_fabric_plugin_init,220
+1.4142135381698608,chassisd DAEMON chan_count num_chan,2
+1.4142135381698608,chassisd DAEMON jam_plugin_init MPC Fabric Plugin Init,325
+1.4142135381698608,chassisd DAEMON jam_plugin_init SCBE Fabric Plugin Init,166
+1.4142135381698608,chassisd DAEMON jam_plugin_init SFB Fabric Plugin Init,244
+1.4142135381698608,chassisd DAEMON jam_plugin_init SFB Fasic Plugin Init,243
+1.4142135381698608,ifinfo USER IFINFO_IFD_NAME IFD descr,1
+1.4142135381698608,ifinfo USER IFINFO_IFD_NAME IFD,27558
+1.4169909954071045,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU power on jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName CB jnxFruType jnxFruSlot jnxFruOfflineReason jnxFruLastPowerOff jnxFruLastPowerOn,3
+1.4169909954071045,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU power on jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName FPC MPCE D Q CGE XGE jnxFruType jnxFruSlot jnxFruOfflineReason jnxFruLastPowerOff jnxFruLastPowerOn,2
+1.4169909954071045,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU power on jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName MIC XGE SFPP jnxFruType jnxFruSlot jnxFruOfflineReason jnxFruLastPowerOff jnxFruLastPowerOn,3
+1.4169909954071045,chassisd DAEMON CHASSISD_SNMP_TRAP SNMP trap generated FRU power on jnxFruContentsIndex jnxFruLIndex jnxFruLIndex jnxFruLIndex jnxFruName PIC jnxFruType jnxFruSlot jnxFruOfflineReason jnxFruLastPowerOff jnxFruLastPowerOn,8
+1.420255422592163,ifinfo USER IFINFO_IFD_NAME IFD media,26910
+1.4253267049789429,rpd DAEMON bgp_handle_notify NOTIFICATION received from _IP__PORT External AS code Cease,48
+1.4253267049789429,rpd DAEMON bgp_handle_notify NOTIFICATION received from _IP__PORT Internal AS code Cease subcode Other Configuration Change,6
+1.4253267049789429,rpd DAEMON bgp_handle_notify NOTIFICATION received from _IP__PORT Internal AS code Open Message Error,5
+1.4299867153167725,chassisd DAEMON mpc_coef_setup registering fru_id c speed midplane_version,181
+1.430189609527588,chassisd DAEMON LIBJSNMP_NS_LOG_INFO INFO ns_subagent_open_session NET SNMP version AgentX subagent Open Sent,1
+1.430302619934082,chassisd DAEMON CHASSISD_IFDEV_CREATE_NOTICE fpc_create_devs_from_queue created interface device for ud,8
+1.4321348667144775,rpd DAEMON bgp_recv read from peer _IP__PORT proto failed Unknown error,1
+1.43361234664917,rpd DAEMON IF Skipped marking address fe aa ff fe ffc on ifl ae as UP Reason addr is in TENTATIVE state,1
+1.4389663934707642,chassisd DAEMON JAM PL product model identified as,184
+1.4426511526107788,ifinfo USER IFINFO_IFD_NAME IFD ae,1
+1.444951057434082,chassisd DAEMON XFCHIP PCIE handle created successfully xfchip_pre_init,2
+1.4451401233673096,ifinfo USER IFINFO_IFD_NAME IFD terse,571
+1.4470930099487305,chassisd DAEMON JAM Plugin installed for ferrari_pic_xqsfpp PIC,112
+1.4470930099487305,chassisd DAEMON JAM Plugin installed for srxk_pic_xge PIC,222
+1.4470930099487305,chassisd DAEMON JAM Plugin installed for stout_load_mic PIC,115
+1.4470930099487305,chassisd DAEMON JAM Plugin installed for stout_mic_xge PIC,502
+1.4470930099487305,chassisd DAEMON JAM Plugin installed for stout_tic_xge PIC,115
+1.4477251768112183,ifinfo USER IFINFO_IFD_NAME IFD xe,7285
+1.4480431079864502,chassisd DAEMON XFCHIP jtad id read check successful xfchip_pre_init part num _HEXNUM_,2
+1.4484694004058838,rpd DAEMON bgp_recv peer _IP__PORT proto received unexpected EOF,16
+1.4496358633041382,rpd DAEMON bgp_recv read from peer _IP__PORT External AS failed Unknown error,7
+1.4552404880523682,chassisd DAEMON JAM PL Registered attributes for ce,112
+1.4560883045196533,ifinfo USER IFINFO_IFD_NAME IFD descriptions,184
+1.4574196338653564,rpd DAEMON bgp_read_message NOTIFICATION received from _IP__PORT External AS code Open Message Error subcode invalid Data,1
+1.4605836868286133,chassisd DAEMON HSL Primitive trained channel bonding on RX CBF chan rx,24
+1.463213562965393,chassisd DAEMON jam_plugin_init MPC Fabric Plugin Done return skip others,95
+1.4641966819763184,rpd DAEMON bgp_pp_recv rejecting connection from _IP__PORT External AS peer in state Established,34126
+1.4641966819763184,rpd DAEMON bgp_pp_recv rejecting connection from _IP__PORT External AS peer in state Idle,1
+1.4641966819763184,rpd DAEMON bgp_pp_recv rejecting connection from _IP__PORT External AS peer in state OpenConfirm,9
+1.4641966819763184,rpd DAEMON bgp_pp_recv rejecting connection from _IP__PORT Internal AS peer in state Established,5
+1.4663455486297607,rpd DAEMON other_re_command_execute_by_iri other_re re iri,11
+1.4679515361785889,rpd DAEMON mchassis_re_command_execute_status_by_iri hostname re net AF_TNP rcmd_rt with RT_TABLE_DEFAULT iri table,11
+1.4684996604919434,ifinfo USER IFINFO_IFD_NAME IFD desc,3
+1.4711416959762573,chassisd DAEMON HSL Window interval not changed for chan Not updating,107
+1.4723304510116577,chassisd DAEMON HSL Aging threshold not changed for chan Not updating,110
+1.4724149703979492,chassisd DAEMON JAM PL Registered attributes for ccc,112
+1.4741439819335938,chassisd DAEMON fasic_ic_read_get_chip_type Reading CB IC ID from ideeprom,342
+1.4777450561523438,rpd DAEMON bgp_recv peer _IP__PORT External AS received unexpected EOF,2
+1.4797642230987549,chassisd DAEMON HSL Primitive bringup enables TX CBF chan tx,18
+1.481845498085022,chassisd DAEMON HSL Primitive bringup finished serdes CBF chan rx,24
+1.4832481145858765,chassisd DAEMON jam_core_fabric_attrib_set In config_mode returning for _HEXNUM_,1448
+1.4832481145858765,chassisd DAEMON jam_core_fasic_attrib_set In config_mode returning for _HEXNUM_,1376
+1.4969220161437988,ifinfo USER IFINFO_IFD_NAME IFD lo,181
+1.5131560564041138,ifinfo USER IFINFO_IFD_NAME IFD de,1
+1.5166927576065063,chassisd DAEMON HSL Primitive bringup Started Training on TX CBF chan tx,23
+1.519663691520691,chassisd DAEMON CHASSISD_SIGPIPE SIGPIPE received,2
+1.5221823453903198,chassisd DAEMON HSL Primitive bringup finished CBF chan tx,24
+1.5221823453903198,chassisd DAEMON HSL Primitive bringup finished serdes CBF chan tx,24
+1.532839059829712,chassisd DAEMON HSL Primitive bringup issued start_command on TX CBF chan tx,20
+1.533549427986145,chassisd DAEMON jam_plugin_init registered coefficeints successfully,82
+1.533549427986145,chassisd DAEMON XFCHIP Hostif registered successfully xfchip_pre_init,3
+1.533549427986145,chassisd DAEMON XFCHIP Jspec registered successfully xfchip_pre_init,2
+1.533549427986145,chassisd DAEMON XFCHIP Rcbusif registered successfully xfchip_pre_init,3
